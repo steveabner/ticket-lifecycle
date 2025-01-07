@@ -32,36 +32,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>In this section, I will create tickets as an end user, review the ticket properties, and then respond to them as a help desk professional. I will be using both the Admin/Analyst Login Page and the End User's osTicket URL. Below are the key URLs for accessing the respective interfaces:</p>
 
----
-
 <ul>
   <li><strong>Admin Login URL:</strong> <a href="http://localhost/osTicket/scp/login.php" target="_blank">http://localhost/osTicket/scp/login.php</a></li>
   <li><strong>User URL:</strong> <a href="http://localhost/osTicket" target="_blank">http://localhost/osTicket</a></li>
 </ul>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+---
 
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-
-</p>
-<br />
+<p><strong>⬇️ Click to Expand ⬇️</strong></p>
+<details>
+  <summary></summary>
