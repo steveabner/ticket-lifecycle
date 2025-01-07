@@ -36,9 +36,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <li><strong>User URL:</strong> <a href="http://localhost/osTicket" target="_blank">http://localhost/osTicket</a></li>
 </ul>
 
-<p>Ensure you have administrative privileges to access the Admin Login Page and start configuring your osTicket system.</p>
-
-
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
