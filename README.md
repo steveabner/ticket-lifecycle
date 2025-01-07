@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>In this section, we will walk through the necessary configuration steps using both the Admin/Analyst Login Page and the End User's osTicket URL. Below are the key URLs to access the respective interfaces:</p>
+<p>In this section, we will go through the life cycle of a ticket from creation, to resolution. I'll be using both the Admin/Analyst Login Page and the End User's osTicket URL. Below are the key URLs to access the respective interfaces:</p>
 
 <ul>
   <li><strong>Admin Login URL:</strong> <a href="http://localhost/osTicket/scp/login.php" target="_blank">http://localhost/osTicket/scp/login.php</a></li>
