@@ -45,13 +45,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 The entire Online-Banking system is down! My employees are reporting that users are no longer able to access the online banking portal. Some users are saying they can occasionally access it, but cannot log in.
 
 <details>
-  <summary>📝 Create a ticket as an End User</summary>
+  <summary>📝 Open tickets as an End User</summary>
 
 - Navigate to the Support Center URL: http://localhost/osTicket, and click `Open a New Ticket`
 
   ![2025-01-07 15_45_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/772ba996-bc85-46b9-b448-4c561cc27947)
 
-- I'll open a new ticket as `Sarah`, I'll input an email and name, then select the help topic `Report a Problem`. I'll input an Issue Summary, `Entire online banking system is down`, and then give more details. Then click `Create Ticket`.
+- I’ll create three tickets, entering the user’s information and detailing the issues they’re experiencing. For each ticket, I’ll select the appropriate help topic, provide a concise issue summary, add additional details, and then click `Create Ticket`.
 
   ![2025-01-07 16_03_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/37993a64-3d9e-4df0-8dca-6e7e863de04a)
 
