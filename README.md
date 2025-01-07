@@ -39,6 +39,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ---
 
-<p><strong>⬇️ Click to Expand ⬇️</strong></p>
+<!--<p><strong>⬇️ Click to Expand ⬇️</strong></p>-->
+
+## Scenario
+
+The entire Online-Banking system is down! 
+
 <details>
-  <summary></summary>
+  <summary>Create a ticket as an End User</summary>
+
+- Navigate to the Support Center URL: http://localhost/osTicket, and click `Open a New Ticket`
+
+  ![2025-01-07 15_45_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/772ba996-bc85-46b9-b448-4c561cc27947)
+
+- I'll open a new ticket as `Sarah`, I'll fill out the email and name field. Then select a help topic
+
+
+
+
+</details>
