@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
+- ### [YouTube: How to create, work, and resolve tickets within osTicket](https://www.youtube.com)
 
 <h2>🌍 Environments and Technologies Used 🌍</h2>
 
@@ -50,6 +50,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - I’ll create three tickets, entering the user’s information and detailing the issues they’re experiencing. For each ticket, I’ll select the appropriate help topic, provide a concise issue summary, add additional details, and then click `Create Ticket`.
 
   ![2025-01-07 16_03_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/37993a64-3d9e-4df0-8dca-6e7e863de04a)
+
+   ![2025-01-07 18_23_19-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/48e94d42-2787-4a74-b157-9a4c5b42c6e6)
+
+   ![2025-01-07 18_28_30-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/4f893522-3155-42df-a436-0c964b21e0ea)
 
 </details>
 
