@@ -37,24 +37,43 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <li><strong>User URL:</strong> <a href="http://localhost/osTicket" target="_blank">http://localhost/osTicket</a></li>
 </ul>
 
----
 
 <!--<p><strong>⬇️ Click to Expand ⬇️</strong></p>-->
 
-## Scenario
+### Scenario 1
 
-The entire Online-Banking system is down! 
+The entire Online-Banking system is down! My employees are reporting that users are no longer able to access the online banking portal. Some users are saying they can occasionally access it, but cannot log in.
 
 <details>
-  <summary>Create a ticket as an End User</summary>
+  <summary>📝 Create a ticket as an End User</summary>
 
 - Navigate to the Support Center URL: http://localhost/osTicket, and click `Open a New Ticket`
 
   ![2025-01-07 15_45_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/772ba996-bc85-46b9-b448-4c561cc27947)
 
-- I'll open a new ticket as `Sarah`, I'll fill out the email and name field. Then select a help topic
+- I'll open a new ticket as `Sarah`, I'll input an email and name, then select the help topic `Report a Problem`. I'll input an Issue Summary, `Entire online banking system is down`, and then give more details. Then click `Create Ticket`.
+
+  ![2025-01-07 16_03_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/37993a64-3d9e-4df0-8dca-6e7e863de04a)
+
+</details>
 
 
+<details>
+  <summary>🛠️ Working Tickets</summary>
+
+- I'll log in as the Support specialist Jane.
+
+  ![2025-01-07 16_34_46-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/e91108a1-ab6c-4682-930e-1db51f8b27c7)
+
+- On the dashboard, click `Tickets`, and we can now see Sarah's ticket.
+
+  ![2025-01-07 16_36_14-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d83a05f1-7a14-466c-a7db-4860ef284094)
+
+- Click the ticket, and observe `Priority`, `Department`, `SLA`, and `Assigned To`
+
+  ![2025-01-07 16_45_39-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/75eb4038-e9fe-4b7c-bbc8-8f529c676d3e)
+
+- 
 
 
 </details>
