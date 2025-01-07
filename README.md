@@ -10,17 +10,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>🌍 Environments and Technologies Used 🌍</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+- **Microsoft Azure**: Hosting virtual machines to simulate a real-world environment.
+- **osTicket**: Configuring and managing the ticketing system.
+- **Remote Desktop**: Accessing virtual environments for configuration tasks.
+- **IIS (Internet Information Services)**: Serving as the web platform for osTicket.
 
-<h2>Operating Systems Used </h2>
+<h2>🖥️ Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>🔄 Ticket Lifecycle Stages</h2>
 
 - Intake
 - Assignment and Communication
