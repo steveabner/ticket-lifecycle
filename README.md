@@ -53,7 +53,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
    ![2025-01-07 18_23_19-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/48e94d42-2787-4a74-b157-9a4c5b42c6e6)
 
-   ![2025-01-07 18_28_30-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/4f893522-3155-42df-a436-0c964b21e0ea)
+   ![2025-01-07 18_35_02-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/eada8d79-0042-4810-a2c5-afea85ac9dde)
 
 </details>
 
