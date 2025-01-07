@@ -40,12 +40,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <!--<p><strong>⬇️ Click to Expand ⬇️</strong></p>-->
 
-### Scenario 1
-
-The entire Online-Banking system is down! My employees are reporting that users are no longer able to access the online banking portal. Some users are saying they can occasionally access it, but cannot log in.
-
 <details>
-  <summary>📝 Open tickets as an End User</summary>
+  <summary>📝 Creating Tickets</summary>
 
 - Navigate to the Support Center URL: http://localhost/osTicket, and click `Open a New Ticket`
 
