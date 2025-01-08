@@ -61,19 +61,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <details>
   <summary>🛠️ Working Tickets</summary>
 
-- I'll log in as the Support specialist Jane.
+- I'll log in as Help Desk agent Jane.
 
   ![2025-01-07 16_34_46-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/e91108a1-ab6c-4682-930e-1db51f8b27c7)
 
-- On the dashboard, click `Tickets`, and we can now see Sarah's ticket.
+- On the dashboard, I'll click `Tickets` to view all the tickets I just created.
 
-  ![2025-01-07 16_36_14-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d83a05f1-7a14-466c-a7db-4860ef284094)
+ ![2025-01-07 18_37_53-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/983100a7-2a2e-4953-b2bb-88f1474e9737)
 
-- Click the ticket, and observe `Priority`, `Department`, `SLA`, and `Assigned To`
+- I'll begin with the oldest ticket and work my way to the newest. Starting with the online banking ticket, I'll open it and review its `Priority`, `Department`, `SLA`, and `Assigned To` details.
 
-  ![2025-01-07 16_45_39-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/75eb4038-e9fe-4b7c-bbc8-8f529c676d3e)
+  ![2025-01-07 18_42_32-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/0556fd27-0301-4d25-b01e-1f1d0e4601ac)
 
-- 
+- The online banking system seems to be completely down, so I'll set the priority to `Emergency`. To do this, click `Normal` and change it to `Emergency`, then click `Update`.
 
+  ![2025-01-07 19_12_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bfac5371-65cf-4537-abeb-1102192258dc)
+  ![2025-01-07 19_13_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6bfdf75d-bfc6-4bc1-9685-b541a0c938b0)
 
 </details>
