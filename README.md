@@ -122,7 +122,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </details>
 
 <details>
-  <summary>Working a General Inquiry Ticket</summary>
+  <summary>🛠️ Working a General Inquiry Ticket</summary>
 
 - I'll log in as Help Desk Agent Jane, and work on the ticket from the accounting department.
 
