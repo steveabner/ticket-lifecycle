@@ -119,5 +119,34 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   ![2025-01-07 23_01_39-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/78c4bf85-db15-489b-8459-c62a9b525266)
   ![2025-01-07 23_03_40-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bdbeb30a-cc3b-43c4-8b0d-0cd1a727d767)
 
+</details>
+
+<details>
+  <summary>Working a General Inquiry Ticket</summary>
+
+- I'll log in as Help Desk Agent Jane, and work on the ticket from the accounting department.
+
+  ![2025-01-07 23_26_13-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d5d723de-b9c4-4eec-8cd7-6e785aa05707)
+
+- I'll open and examine the ticket. It looks like the accounting department is having issues with Adobe.
+
+  ![2025-01-07 23_29_16-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/7419ac2c-4585-4e07-b293-9d0761ebe89f)
+
+- After talking with Karen on the phone, it was determined that only two people in accounting are having issues. Since this issue is not business-critical, I'll set the SLA to `Sev-C`, and add our conversation to the notes.
+
+  ![2025-01-07 23_35_33-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/93174951-e3ac-46ce-8a7d-4e07aa637537)
+
+- Now I'll assign the ticket to myself, I'll click `Unassigned`, select `Jane Doe`, then click `Assign`.
+
+  ![2025-01-07 23_38_24-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/91355feb-294e-40cb-b097-b7361436b0a5)
+
+- I'll go ahead and post a reply.
+
+  ![2025-01-07 23_41_12-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f933c242-3c40-4b4c-829d-510cd13df626)
+
+
+
+
+
 
 </details>
