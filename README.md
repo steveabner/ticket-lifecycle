@@ -149,7 +149,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   ![2025-01-07 23_43_52-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/b93fb597-9663-405a-b4bf-54e3b9b247d0)
   ![2025-01-07 23_49_40-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a5d9880a-1068-4d87-8d4e-871dc288ba55)
 
-  
+</details>
+
+<details>
+  <summary>🛠️ Working a Personel Computer Issue Ticket</summary>
+
 
 
 </details>
