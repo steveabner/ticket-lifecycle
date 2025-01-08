@@ -78,4 +78,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   ![2025-01-07 19_12_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bfac5371-65cf-4537-abeb-1102192258dc)
   ![2025-01-07 19_13_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6bfdf75d-bfc6-4bc1-9685-b541a0c938b0)
 
+- Next, I'll set the SLA. To do this, click `Default SLA`.
+
+  ![2025-01-07 19_41_23-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/35abe897-6751-49ff-92a5-cb7c538fd068)
+
+- Since this is a critical issue and needs to be resolved as soon as possible, I'll select `Sev-A`, add a note, then click `Update`
+
+  ![2025-01-07 19_56_18-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/25c24da8-5c97-4152-8c9d-c9ef113a4124)
+
+- I'll change the help topic to reflect a critical issue. Click `Report a Problem`, change it to `Business Critical Outage`, add a note, then click `Update`.
+
+  ![2025-01-07 19_59_42-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a2109d98-3b89-45b9-b172-bf096cb113d3)
+  ![2025-01-07 20_01_07-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ac379d45-14ae-4e1c-b8ff-df45280565af)
+
+- Now I'll assign the ticket to the appropriate online banking team, I'll click `Unassigned`, select `Online Banking`, then click `Assign`.
+
+  ![2025-01-07 20_04_38-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/2fbe0165-4800-465c-93aa-76aa48c06607)
+  ![2025-01-07 20_05_21-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/0d119830-7fac-4856-9996-dbca26698615)
+
+
+
 </details>
