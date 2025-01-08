@@ -152,7 +152,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </details>
 
 <details>
-  <summary>🛠️ Working a Personel Computer Issue Ticket</summary>
+  <summary>🛠️ Working a Personal Computer Issue Ticket</summary>
 
 
 
