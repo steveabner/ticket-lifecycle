@@ -59,7 +59,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <details>
-  <summary>🛠️ Working Tickets</summary>
+  <summary>🛠️ Working a Business Critical Ticket</summary>
 
 - I'll log in as Help Desk agent Jane.
 
@@ -95,6 +95,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   ![2025-01-07 20_04_38-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/2fbe0165-4800-465c-93aa-76aa48c06607)
   ![2025-01-07 20_07_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bf1f25c2-ee5a-49c8-b31d-679cbc0e3e16)
+
+- I'll log out and work the ticket as `John` now.
+
+  ![2025-01-07 22_42_47-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ed95187b-18ec-42d0-a76e-b5ab43a9c8eb)
+
+- I'll click the ticket, and assign it to `John Smith`, then click `Assign`.
+
+  ![2025-01-07 22_44_49-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/418dd717-5378-4782-a014-e78db292c819)
+
+  ![2025-01-07 22_45_27-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f323fb91-7e8e-483b-9181-5ae04ca98a68)
+
+
+
 
 
 
