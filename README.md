@@ -192,7 +192,7 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 <Details>
   <Summary>🛠️ Browsing Resolved Tickets</Summary>
 
-- To look through resolved tickets, I'll log in as `Adminuser`, and click `Tickets`, then `Closed`.
+- To review resolved tickets, I’ll log in as Adminuser, navigate to Tickets, and select Closed.
 
   ![2025-01-08 01_35_28-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a0a85f92-c9c6-4231-a237-c416d9edc129)
 
@@ -200,7 +200,7 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 
   ![2025-01-08 01_36_08-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/45ab8933-fd2e-45e1-b5b3-993eab8162a2)
 
-- You can look through the tickets thread and see all the changes, posts, and notes left by the agents. It's a complete history.
+- You can review the ticket thread to see the complete history, including the original post, all updates, changes, agent responses, and notes.
 
   ![2025-01-08 01_40_10-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/c7d565c0-1d9c-4ea9-8886-82542d6159ae)
 
