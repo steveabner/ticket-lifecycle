@@ -207,9 +207,8 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
   ![2025-01-08 01_40_28-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/3c0f422c-c406-42c1-afbf-e551ce433576)
 
   
-
-  
 </Details>
+
 ---
 
 <h2>💡 Key Takeaways</h2>
