@@ -57,12 +57,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </details>
 
-# 🛠️ osTicket Workflow Demonstrations
-
-This repository showcases the workflow for handling different ticket scenarios in osTicket, demonstrating efficient help desk management techniques. Below, you'll find step-by-step walkthroughs with visuals for each scenario.  
-
----
-
 <details>
   <summary>🛠️ Working a Business Critical Ticket</summary>
 
