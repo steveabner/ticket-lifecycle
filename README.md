@@ -106,10 +106,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   ![2025-01-07 22_45_27-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f323fb91-7e8e-483b-9181-5ae04ca98a68)
 
+- Next, I'll respond to Sarah, reassuring them that we're actively investigating the outage issue.
 
+  ![2025-01-07 22_52_43-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/93b72fc2-b99b-4b70-8694-14f54105839e)
 
+- Finally, if a solution is found, I'll update Sarah on our findings, and close the ticket.
 
+  ![2025-01-07 22_58_56-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/5d9b730d-f618-4347-9961-19c42f95e528)
 
+- To resolve the ticket, I'll find `Status` then click `Open`, change it to `Resolved`, then click `Close`
+
+  ![2025-01-07 23_01_39-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/78c4bf85-db15-489b-8459-c62a9b525266)
+  ![2025-01-07 23_03_40-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bdbeb30a-cc3b-43c4-8b0d-0cd1a727d767)
 
 
 </details>
