@@ -94,7 +94,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Now I'll assign the ticket to the appropriate online banking team, I'll click `Unassigned`, select `Online Banking`, then click `Assign`.
 
   ![2025-01-07 20_04_38-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/2fbe0165-4800-465c-93aa-76aa48c06607)
-  ![2025-01-07 20_05_21-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/0d119830-7fac-4856-9996-dbca26698615)
+  ![2025-01-07 20_07_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bf1f25c2-ee5a-49c8-b31d-679cbc0e3e16)
+
 
 
 
