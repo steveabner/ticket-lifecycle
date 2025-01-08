@@ -57,125 +57,88 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </details>
 
+# 🛠️ osTicket Workflow Demonstrations
 
-<details>
-  <summary>🛠️ Working a Business Critical Ticket</summary>
+This repository showcases the workflow for handling different ticket scenarios in osTicket, demonstrating efficient help desk management techniques. Below, you'll find step-by-step walkthroughs with visuals for each scenario.  
 
-- I'll log in as Help Desk agent Jane.
+---
 
-  ![2025-01-07 16_34_46-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/e91108a1-ab6c-4682-930e-1db51f8b27c7)
+## 🎯 Table of Contents  
+1. [Working a Business Critical Ticket](#working-a-business-critical-ticket)  
+2. [Working a General Inquiry Ticket](#working-a-general-inquiry-ticket)  
+3. [Working a Personal Computer Issue Ticket](#working-a-personal-computer-issue-ticket)  
 
-- On the dashboard, I'll click `Tickets` to view all the tickets I just created.
+---
 
- ![2025-01-07 18_37_53-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/983100a7-2a2e-4953-b2bb-88f1474e9737)
+### 🛠️ Working a Business Critical Ticket  
 
-- I'll begin with the oldest ticket and work my way to the newest. Starting with the online banking ticket, I'll open it and review its `Priority`, `Department`, `SLA`, and `Assigned To` details.
+This section demonstrates how to handle tickets related to high-priority business-critical issues, such as system outages.
 
-  ![2025-01-07 18_42_32-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/0556fd27-0301-4d25-b01e-1f1d0e4601ac)
+#### Steps:  
 
-- The online banking system seems to be completely down, so I'll set the priority to `Emergency`. To do this, click `Normal` and change it to `Emergency`, then click `Update`.
+1. **Log In as Help Desk Agent Jane**  
+   ![Agent Login](https://github.com/user-attachments/assets/e91108a1-ab6c-4682-930e-1db51f8b27c7)  
 
-  ![2025-01-07 19_12_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bfac5371-65cf-4537-abeb-1102192258dc)
-  ![2025-01-07 19_13_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6bfdf75d-bfc6-4bc1-9685-b541a0c938b0)
+2. **View Tickets on the Dashboard**  
+   Navigate to `Tickets` to see all open issues.  
+   ![View Tickets](https://github.com/user-attachments/assets/983100a7-2a2e-4953-b2bb-88f1474e9737)  
 
-- Next, I'll set the SLA. To do this, click `Default SLA`.
+3. **Review Ticket Details**  
+   Open the oldest ticket and assess the `Priority`, `Department`, `SLA`, and `Assigned To`.  
+   ![Ticket Details](https://github.com/user-attachments/assets/0556fd27-0301-4d25-b01e-1f1d0e4601ac)  
 
-  ![2025-01-07 19_41_23-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/35abe897-6751-49ff-92a5-cb7c538fd068)
+4. **Set Priority to Emergency**  
+   Update the ticket priority from `Normal` to `Emergency`.  
+   ![Update Priority](https://github.com/user-attachments/assets/bfac5371-65cf-4537-abeb-1102192258dc)  
 
-- Since this is a critical issue and needs to be resolved as soon as possible, I'll select `Sev-A`, add a note, then click `Update`
+5. **Adjust SLA and Help Topic**  
+   Assign the appropriate SLA (`Sev-A`) and update the help topic to reflect the critical nature of the issue.  
+   ![SLA Update](https://github.com/user-attachments/assets/35abe897-6751-49ff-92a5-cb7c538fd068)  
 
-  ![2025-01-07 19_56_18-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/25c24da8-5c97-4152-8c9d-c9ef113a4124)
+6. **Assign to Online Banking Team**  
+   Reassign the ticket to the relevant team for resolution.  
+   ![Assign Team](https://github.com/user-attachments/assets/2fbe0165-4800-465c-93aa-76aa48c06607)  
 
-- I'll change the help topic to reflect a critical issue. Click `Report a Problem`, change it to `Business Critical Outage`, add a note, then click `Update`.
+7. **Communicate and Resolve**  
+   Respond to Sarah, the end-user, with updates. If resolved, mark the ticket as `Closed`.  
+   ![Reply and Resolve](https://github.com/user-attachments/assets/5d9b730d-f618-4347-9961-19c42f95e528)  
 
-  ![2025-01-07 19_59_42-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a2109d98-3b89-45b9-b172-bf096cb113d3)
-  ![2025-01-07 20_01_07-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ac379d45-14ae-4e1c-b8ff-df45280565af)
+---
 
-- Now I'll assign the ticket to the appropriate online banking team, I'll click `Unassigned`, select `Online Banking`, then click `Assign`.
+### 🛠️ Working a General Inquiry Ticket  
 
-  ![2025-01-07 20_04_38-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/2fbe0165-4800-465c-93aa-76aa48c06607)
-  ![2025-01-07 20_07_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bf1f25c2-ee5a-49c8-b31d-679cbc0e3e16)
+This section outlines steps for addressing general support queries from users.
 
-- I'll log out and work the ticket as `John` now.
+#### Steps:  
+1. Log in as Agent Jane and access the ticket.  
+2. Determine the SLA and note the issue's severity.  
+3. Assign the ticket to yourself and communicate updates with the user.  
+4. Resolve and close the ticket upon fixing the issue.  
+![General Inquiry Workflow](https://github.com/user-attachments/assets/b93fb597-9663-405a-b4bf-54e3b9b247d0)  
 
-  ![2025-01-07 22_42_47-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ed95187b-18ec-42d0-a76e-b5ab43a9c8eb)
+---
 
-- I'll click the ticket, and assign it to `John Smith`, then click `Assign`.
+### 🛠️ Working a Personal Computer Issue Ticket  
 
-  ![2025-01-07 22_44_49-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/418dd717-5378-4782-a014-e78db292c819)
+Handle tickets related to individual hardware or software issues.
 
-  ![2025-01-07 22_45_27-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f323fb91-7e8e-483b-9181-5ae04ca98a68)
+#### Steps:  
+1. Log in as Agent Jane and prioritize the ticket based on urgency.  
+2. Update SLA to reflect importance (`Sev-B`).  
+3. Investigate and communicate findings to the end-user.  
+4. Mark the ticket as resolved upon issue resolution.  
+![Personal Computer Issue](https://github.com/user-attachments/assets/ba173f78-88df-49ce-9350-6d0bed01bf85)  
 
-- Next, I'll respond to Sarah, reassuring them that we're actively investigating the outage issue.
+---
 
-  ![2025-01-07 22_52_43-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/93b72fc2-b99b-4b70-8694-14f54105839e)
+## 🌟 Why This Project Stands Out  
+This walkthrough not only highlights osTicket's functionality but also showcases real-world scenarios with a structured approach to resolution. The visuals make the process easy to follow, offering value for both beginners and professionals.  
 
-- Finally, if a solution is found, I'll update Sarah on our findings, and close the ticket.
+---
 
-  ![2025-01-07 22_58_56-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/5d9b730d-f618-4347-9961-19c42f95e528)
+### 🔗 Explore More  
+Ready for the next project? Check out my [Post-Install Config Guide](https://github.com/steveabner/post-install-config) for advanced customization and setup!  
 
-- To resolve the ticket, I'll find `Status` then click `Open`, change it to `Resolved`, then click `Close`
+---
 
-  ![2025-01-07 23_01_39-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/78c4bf85-db15-489b-8459-c62a9b525266)
-  ![2025-01-07 23_03_40-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bdbeb30a-cc3b-43c4-8b0d-0cd1a727d767)
 
-</details>
-
-<details>
-  <summary>🛠️ Working a General Inquiry Ticket</summary>
-
-- I'll log in as Help Desk Agent Jane, and work on the ticket from the accounting department.
-
-  ![2025-01-07 23_26_13-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d5d723de-b9c4-4eec-8cd7-6e785aa05707)
-
-- I'll open and examine the ticket. It looks like the accounting department is having issues with Adobe.
-
-  ![2025-01-07 23_29_16-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/7419ac2c-4585-4e07-b293-9d0761ebe89f)
-
-- After talking with Karen on the phone, it was determined that only two people in accounting are having issues. Since this issue is not business-critical, I'll set the SLA to `Sev-C`, and add our conversation to the notes.
-
-  ![2025-01-07 23_35_33-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/93174951-e3ac-46ce-8a7d-4e07aa637537)
-
-- Now I'll assign the ticket to myself, I'll click `Unassigned`, select `Jane Doe`, then click `Assign`.
-
-  ![2025-01-07 23_38_24-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/91355feb-294e-40cb-b097-b7361436b0a5)
-
-- I'll go ahead and post a reply.
-
-  ![2025-01-07 23_41_12-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f933c242-3c40-4b4c-829d-510cd13df626)
-
-- A system restart fixed the issue, so I'll post a reply, and close out the ticket.
-
-  ![2025-01-07 23_43_52-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/b93fb597-9663-405a-b4bf-54e3b9b247d0)
-  ![2025-01-07 23_49_40-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a5d9880a-1068-4d87-8d4e-871dc288ba55)
-
-</details>
-
-<details>
-  <summary>🛠️ Working a Personal Computer Issue Ticket</summary>
-
-- I'll log in as Help Desk Agent Jane, and work on the ticket about the CFO's laptop.
-
-  ![2025-01-07 23_58_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d0771b5a-c3ec-4963-9e4a-56dad030bdb2)
-
-- I'll change the priority to `Emergency` and click `Update`.
-
-  ![2025-01-08 00_00_25-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/26ed05ea-9198-4327-b8a2-da105b94ac30)
-
-- Because this is not necessarily Business-Critical, I'll set the SLA to `Sev-B`.
-
-  ![2025-01-08 00_03_44-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f2af6526-9d23-4337-b324-241fb3d254bd)
-
-- I'll assign the ticket to myself, click `Unassigned`, then select `Jane Doe`, then click `Assign`.
-
-  ![2025-01-08 00_04_59-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f2165518-8783-4d44-a1b0-5cc9f4f82f25)
-
-- I'll post a reply that the laptop charger was broken.
-
-  ![2025-01-08 00_09_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ba173f78-88df-49ce-9350-6d0bed01bf85)
-
-- Now I'll close the ticket and mark it as `Resolved`.
-
-  ![2025-01-08 00_12_17-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/db053eae-00de-4781-8226-7e55c3d4e189)
-
-</details>
