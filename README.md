@@ -9,14 +9,14 @@
 
 ---
 
-<h2 align="center">📽️ Video Demonstration 📽️</h2>
+<!--<h2 align="center">📽️ Video Demonstration 📽️</h2>
 
 <p align="center">
   ▶️ <a href="https://www.youtube.com">Watch on YouTube: How to create, work, and resolve tickets within osTicket</a> ◀️
 </p>
 
 ---
-
+-->
 <h2>🌍 Environments and Technologies Used</h2>
 
 | **Technology**        | **Purpose**                                   |
