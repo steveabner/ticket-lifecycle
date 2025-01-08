@@ -4,7 +4,7 @@
 
 <h1 align="center">🎫 osTicket - Ticket Lifecycle: Intake Through Resolution 🎫</h1>
 <p align="center">
-  This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system, osTicket.
+  This project outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system, osTicket.
 </p>
 
 ---
