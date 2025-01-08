@@ -70,11 +70,11 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 <details>
   <summary>🛠️ Working a Business Critical Ticket</summary>
 
-- I'll log in as Help Desk agent Jane.
+- I'll log in as Agent Jane.
 
   ![2025-01-07 16_34_46-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/e91108a1-ab6c-4682-930e-1db51f8b27c7)
 
-- On the dashboard, I'll click `Tickets` to view all the tickets I just created.
+- On the dashboard, I’ll navigate to Tickets to access the list of all newly created tickets.
 
  ![2025-01-07 18_37_53-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/983100a7-2a2e-4953-b2bb-88f1474e9737)
 
@@ -82,16 +82,14 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 
   ![2025-01-07 18_42_32-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/0556fd27-0301-4d25-b01e-1f1d0e4601ac)
 
-- The online banking system seems to be completely down, so I'll set the priority to `Emergency`. To do this, click `Normal` and change it to `Emergency`, then click `Update`.
+- Since the online banking system is completely down, I’ll update the priority to `Emergency`. To do this, I’ll click on `Normal`, select `Emergency`, and then click `Update`.
 
   ![2025-01-07 19_12_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bfac5371-65cf-4537-abeb-1102192258dc)
   ![2025-01-07 19_13_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/6bfdf75d-bfc6-4bc1-9685-b541a0c938b0)
 
-- Next, I'll set the SLA. To do this, click `Default SLA`.
+- Next, I'll set the SLA. To do this, click `Default SLA`. I'll select `Sev-A`, add a note, then click `Update`.
 
   ![2025-01-07 19_41_23-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/35abe897-6751-49ff-92a5-cb7c538fd068)
-
-- Since this is a critical issue and needs to be resolved as soon as possible, I'll select `Sev-A`, add a note, then click `Update`
 
   ![2025-01-07 19_56_18-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/25c24da8-5c97-4152-8c9d-c9ef113a4124)
 
@@ -105,11 +103,11 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
   ![2025-01-07 20_04_38-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/2fbe0165-4800-465c-93aa-76aa48c06607)
   ![2025-01-07 20_07_05-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/bf1f25c2-ee5a-49c8-b31d-679cbc0e3e16)
 
-- I'll log out and work the ticket as `John` now.
+- Next, I’ll log in as Agent John and continue working on the ticket until it’s resolved.
 
   ![2025-01-07 22_42_47-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ed95187b-18ec-42d0-a76e-b5ab43a9c8eb)
 
-- I'll click the ticket, and assign it to `John Smith`, then click `Assign`.
+- First, I'll assign the ticket to `John Smith`. 
 
   ![2025-01-07 22_44_49-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/418dd717-5378-4782-a014-e78db292c819)
 
@@ -133,7 +131,7 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 <details>
   <summary>🛠️ Working a General Inquiry Ticket</summary>
 
-- I'll log in as Help Desk Agent Jane, and work on the ticket from the accounting department.
+- In this section, I'll log in as Agent Jane, and work on the ticket from the accounting department.
 
   ![2025-01-07 23_26_13-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d5d723de-b9c4-4eec-8cd7-6e785aa05707)
 
@@ -141,19 +139,19 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 
   ![2025-01-07 23_29_16-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/7419ac2c-4585-4e07-b293-9d0761ebe89f)
 
-- After talking with Karen on the phone, it was determined that only two people in accounting are having issues. Since this issue is not business-critical, I'll set the SLA to `Sev-C`, and add our conversation to the notes.
+- When encountering an issue like this, it’s often helpful to contact the customer directly for more details. For this lab, let’s assume that after speaking with Karen over the phone, we determined that only two people in accounting are experiencing the problem. Since this isn't a business-critical issue, I’ll set the SLA to `Sev-C` and document our conversation in the notes.
 
   ![2025-01-07 23_35_33-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/93174951-e3ac-46ce-8a7d-4e07aa637537)
 
-- Now I'll assign the ticket to myself, I'll click `Unassigned`, select `Jane Doe`, then click `Assign`.
+- Now I'll assign the ticket to Jane, I'll click `Unassigned`, select `Jane Doe`, then click `Assign`.
 
   ![2025-01-07 23_38_24-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/91355feb-294e-40cb-b097-b7361436b0a5)
 
-- I'll go ahead and post a reply.
+- I'll post a reply for documentation.
 
   ![2025-01-07 23_41_12-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f933c242-3c40-4b4c-829d-510cd13df626)
 
-- A system restart fixed the issue, so I'll post a reply, and close out the ticket.
+- For the sake of the lab, we will assume the system restart fixed the issue, so I'll post another reply, and close out the ticket.
 
   ![2025-01-07 23_43_52-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/b93fb597-9663-405a-b4bf-54e3b9b247d0)
   ![2025-01-07 23_49_40-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/a5d9880a-1068-4d87-8d4e-871dc288ba55)
@@ -163,7 +161,7 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 <details>
   <summary>🛠️ Working a Personal Computer Issue Ticket</summary>
 
-- I'll log in as Help Desk Agent Jane, and work on the ticket about the CFO's laptop.
+- I'll log in as Agent Jane, and work on the ticket about the CFO's laptop.
 
   ![2025-01-07 23_58_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d0771b5a-c3ec-4963-9e4a-56dad030bdb2)
 
