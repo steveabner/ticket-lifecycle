@@ -154,6 +154,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <details>
   <summary>🛠️ Working a Personal Computer Issue Ticket</summary>
 
+- I'll log in as Help Desk Agent Jane, and work on the ticket about the CFO's laptop.
 
+  ![2025-01-07 23_58_22-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/d0771b5a-c3ec-4963-9e4a-56dad030bdb2)
+
+- I'll change the priority to `Emergency` and click `Update`.
+
+  ![2025-01-08 00_00_25-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/26ed05ea-9198-4327-b8a2-da105b94ac30)
+
+- Because this is not necessarily Business-Critical, I'll set the SLA to `Sev-B`.
+
+  ![2025-01-08 00_03_44-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f2af6526-9d23-4337-b324-241fb3d254bd)
+
+- I'll assign the ticket to myself, click `Unassigned`, then select `Jane Doe`, then click `Assign`.
+
+  ![2025-01-08 00_04_59-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/f2165518-8783-4d44-a1b0-5cc9f4f82f25)
+
+- I'll post a reply that the laptop charger was broken.
+
+  ![2025-01-08 00_09_29-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/ba173f78-88df-49ce-9350-6d0bed01bf85)
+
+- Now I'll close the ticket and mark it as `Resolved`.
+
+  ![2025-01-08 00_12_17-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/db053eae-00de-4781-8226-7e55c3d4e189)
 
 </details>
