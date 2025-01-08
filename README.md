@@ -187,7 +187,7 @@ In this section, I’ll demonstrate the process of creating, assigning, and reso
 
   ![2025-01-08 00_12_17-48 211 167 121 - Remote Desktop Connection](https://github.com/user-attachments/assets/db053eae-00de-4781-8226-7e55c3d4e189)
 
-</details
+</details>
 
 <Details>
   <Summary>🛠️ Browsing Resolved Tickets</Summary>
